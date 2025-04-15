@@ -1,0 +1,7 @@
+{
+    "folder_path": "C:/Users/TuUsuario/Downloads",
+    "extensions_to_delete": [".tmp", ".log", ".bak"],
+    "days_unused": 30,
+    "whitelist": ["importante.txt", "no_borrar.log"]
+}
+Add config file
